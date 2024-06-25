@@ -14,16 +14,16 @@ The purpose of creating this software was to enhance my skills in full-stack dev
 # Development Environment
 I used the following tools and technologies to develop this software:
 
-*Visual Studio Code:* An Integrated Development Environment (IDE).
-*Node.js:* A JavaScript runtime for server-side development.
-*Express.js:* A web application framework for Node.js.
-*Socket.IO:* A library for real-time web applications.
-*MongoDB:* A NoSQL database for storing poll and user data.
-*Mongoose:* An ODM (Object Data Modeling) library for MongoDB and Node.js.
-*Passport.js:* An authentication middleware for Node.js.
-*Google OAuth:* For user authentication via Google accounts.
-*HTML/CSS/JavaScript:* For client-side development.
-*dotenv:* For managing environment variables.
+- *Visual Studio Code:* An Integrated Development Environment (IDE).
+- *Node.js:* A JavaScript runtime for server-side development.
+- *Express.js:* A web application framework for Node.js.
+- *Socket.IO:* A library for real-time web applications.
+- *MongoDB:* A NoSQL database for storing poll and user data.
+- *Mongoose:* An ODM (Object Data Modeling) library for MongoDB and Node.js.
+- *Passport.js:* An authentication middleware for Node.js.
+- *Google OAuth:* For user authentication via Google accounts.
+- *HTML/CSS/JavaScript:* For client-side development.
+- *dotenv:* For managing environment variables.
 
 # Useful Websites
 
